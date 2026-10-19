@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforced
+mode: enforce
 mx: aspmx.l.google.com
 mx: *.aspmx.l.google.com
 mx: *.googlemail.com
